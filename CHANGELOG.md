@@ -1,5 +1,11 @@
 Changes
 ==
+2014-05-02 (1.2.1)
+
+modified gem to point to Pearson fork of vcloud-rest
+
+Changes
+==
 2014-02-06 (1.2.0)
 --
 
